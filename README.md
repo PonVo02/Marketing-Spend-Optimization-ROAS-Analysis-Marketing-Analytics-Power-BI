@@ -1,4 +1,4 @@
-# Marketing-Spend-Optimization-ROAS-Analysis-Marketing-Analytics-Power-BI
+# 📈 Marketing-Spend-Optimization-ROAS-Analysis-Marketing-Analytics-Power-BI
 
 Author: Vo Van Pon
 
@@ -131,10 +131,11 @@ Analyze how campaign strategy, ad type, and device influence conversion efficien
 
 - **Spring** remains balanced without clear differentiation
 
--> Indicates the need to **balance growth and efficiency in campaign strategy**
+=> Indicates the need to **balance growth and efficiency in campaign strategy**
 
 
 **🔹 Ad Type – Discount Drives Conversion**
+
 Discount ads outperform Collection ads in **ROAS and conversion rate**
 -> Indicates **incentive-based messaging drives stronger user action**
 
@@ -144,6 +145,7 @@ Desktop shows higher **conversion rate and ROAS**, while Mobile underperforms
 -> Indicates **friction in mobile conversion journey**
 
 **🔹 Multi-Factor Performance Drivers**
+
 Performance varies across campaign, ad type, and device
 -> Indicates inefficiency is **systemic, not isolated**
 
@@ -173,7 +175,7 @@ Highest **ROAS and conversion rate** despite lowest spend
 Highest **revenue** with stable performance
 -> Indicates **reliable growth driver with optimization potential**
 
-**🔹 London – Traffic Without Conversion
+**🔹 London – Traffic Without Conversion**
 
 High **CTR**, but lowest **ROAS and CR**, highest **CPA**
 -> Indicates **conversion bottleneck and inefficient spend**.
@@ -236,8 +238,10 @@ Performance differences across cities highlight the need for **targeted budget a
 
 ---
 
-🚀 Recommendations
+### 🚀 Recommendations
+
 **🔹 1. Reallocate Budget Toward High-Efficiency Segments**
+
 Budget should be reallocated more strategically by reducing spend on lower-efficiency segments and increasing investment in high-performing ones.
 
 From
@@ -278,7 +282,10 @@ To
 
 - Optimize underperforming segments before scaling
 
+  ---
+
 ### 🧠 FINAL SUMMARY
+
 Marketing inefficiency is not driven by lack of traffic, but by **poor conversion performance concentrated in specific segments (Facebook, Mobile, London)**.
 
 At the same time, **high-efficiency segments (Pinterest, Summer campaign, Birmingham)** remain underutilized.
