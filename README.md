@@ -49,19 +49,23 @@ Which channels, campaigns, and locations should receive more budget to maximize 
 
 ### 1️⃣ Empathize
 
-<img width="1032" height="581" alt="image" src="https://github.com/user-attachments/assets/abae8e74-be4b-4063-8669-7d2a552c2153" />
+<img width="2056" height="1150" alt="Ảnh màn hình 2026-04-11 lúc 23 06 45" src="https://github.com/user-attachments/assets/7464b6d8-0b05-412f-89e6-4d948bf6e4cb" />
+
 
 
 ### 2️⃣ Define point of view
 
-<img width="1030" height="573" alt="image" src="https://github.com/user-attachments/assets/2bab3e2f-a012-4b1d-b62c-ddc240b3f4a3" />
+<img width="2056" height="1150" alt="Ảnh màn hình 2026-04-11 lúc 23 07 53" src="https://github.com/user-attachments/assets/a225718a-6f26-4e47-b0fe-a7af936d2b57" />
+
 
 ### 3️⃣ Ideate
 
-<img width="1028" height="523" alt="image" src="https://github.com/user-attachments/assets/bebda1fd-ce38-4a37-8c39-828250f09e4e" />
+
+<img width="2056" height="1150" alt="Ảnh màn hình 2026-04-11 lúc 23 08 31" src="https://github.com/user-attachments/assets/17152f76-d5b0-48f2-bb56-e291bc40f546" />
 
 
-<img width="1030" height="579" alt="image" src="https://github.com/user-attachments/assets/fa978c5b-b74d-49e5-820f-708f7119ac24" />
+
+<img width="2056" height="1150" alt="Ảnh màn hình 2026-04-11 lúc 23 09 32" src="https://github.com/user-attachments/assets/a69c1946-8d5c-4685-a05b-e10113aa2b35" />
 
 
 ---
